@@ -57,12 +57,7 @@ The system works by:
 
 ---
 
-## 🖼️ Project Images (Place in repo or insert actual image files)
-- `assets/blynk-overview.png`: Overview of audio filtering steps
-- `assets/blynk-setup.png`: (Optional if Blynk used or replace accordingly)
-- `assets/wire-diagram.png`: If applicable, show audio I/O path
-- `assets/foto-produk.png`: Your physical setup (e.g., mic, laptop)
+## 📁 Demo Files
 
-Insert using:
-```markdown
-![Overview](assets/blynk-overview.png)
+- 🎧 [Audio and Output](https://drive.google.com/drive/folders/14yvXgP3Wm7FCl6oLIp5DREoI11ufA6lx?usp=drive_link)
+
